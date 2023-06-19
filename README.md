@@ -29,4 +29,4 @@ Output from sample_data.html, note the scheduling conflict on Tuesday morning in
 
 Fall                   |  Winter                  |
 :-------------------------:|:-------------------------:|
-![](https://github.com/CameronKerr/Timetable-Generator/results/fall_timetable_sample.png)  |  ![](https://github.com/CameronKerr/Timetable-Generator/results/winter_timetable_sample.png) | 
+![](https://github.com/CameronKerr/Timetable-Generator/tree/main/results/fall_timetable_sample.png)  |  ![](https://github.com/CameronKerr/Timetable-Generator/tree/main/results/winter_timetable_sample.png) | 
